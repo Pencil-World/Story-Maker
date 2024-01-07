@@ -62,5 +62,5 @@ def two():
             break
         get_llama_response(user_input)
 
-two()
+one()
 print("done")
