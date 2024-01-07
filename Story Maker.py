@@ -62,5 +62,9 @@ def two():
             break
         get_llama_response(user_input)
 
+def three():
+    # https://colab.research.google.com/drive/1GA2JRUmN82YPg1xw2nYLwh0CZNycsBil#scrollTo=0hYJu_7_Yrvf
+    pass
+
 one()
 print("done")
